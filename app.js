@@ -24,7 +24,8 @@ function handleSubmitForm(e) {
    element is created by using the document.createElement method. This is new 
    element is stored in the variable li. This is the list element which is containing 
    the output which is done for every todo element. Therefore we’re inserting the inner 
-   HTML code of the li element by assigning the code string to property innerHTML of the li element.
+   HTML code of the li element by assigning the code string to property innerHTML of the 
+   li element.
 */
 
 function addTodo(todo) {
